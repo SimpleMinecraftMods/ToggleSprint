@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "${mod_id}",
+    "name": "${mod_name}",
+    "version": "${mod_version}",
+    "mcversion": "${mc_version}",
+    "url": "https://modrinth.com/project/${mod_id}-smm",
+    "logoFile": "assets/${mod_id}/icon.png",
+    "authorList": [
+      "SimpleMinecraftMods"
+    ]
+  }
+]
